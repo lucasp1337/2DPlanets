@@ -1,5 +1,5 @@
 # 2DPlanets
-Just a for fun physics engine which computes the gravitational forces between planets
+Just a for fun physics engine which computes the gravitational forces between planet.
 Using mass of provided planets, the program calculates the forces between planets.
 This is definitely not optimal, but meh, it was made just for fun.
 
